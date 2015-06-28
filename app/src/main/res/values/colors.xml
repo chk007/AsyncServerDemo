@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="action_bar_green">#ff9ed320</color>
+    <color name="wifi_async_bottom_black">#ff3b3a41</color>
+    <color name="wifi_async_tip_text">#ff868689</color>
+</resources>

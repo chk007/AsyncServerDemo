@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AsyncServer</string>
+    <string name="action_settings">action_settings</string>
+    <string name="wifi_sync_title">WIFI传图</string>
+    <string name="wifi_connection_tip">请确保手机和电脑在同一WiFi下</string>
+    <string name="wifi_sync_ip_tip">在电脑浏览器内访问</string>
+    <string name="wifi_sync_tip_top">WIFI上传的设计稿将自动保存在</string>
+    <string name="wifi_sync_tip_bottom">SD卡AsyncServerImage文件夹中</string>
+    <string name="exit_dialog_show_vcode">显示桌面浮动按钮</string>
+    <dimen name="text_size_16">16dp</dimen>
+</resources>
