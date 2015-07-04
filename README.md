@@ -6,7 +6,7 @@ And in order to make the app work well, you should make sure that: <br/>
 2. The minSdkVersion is 15, so your android must be higher than 4.0.3<br/>
 
 <h1>AsyncServerDemo</h1> <br/>
-1.基于开源项目https://github.com/koush/AndroidAsync 和 http://www.dropzonejs.com/ 项目，本人设计了一个Android App,这是一个Android Studio工程。<br/>
+基于开源项目<a>https://github.com/koush/AndroidAsync</a>和<a>http://www.dropzonejs.com/</a>项目，本人设计了一个Android App,这是一个Android Studio工程。<br/>
 这个Demo实现从电脑向Android手机上次图片的功能;确保App正常运行需要满足以下条件： <br/>
 1）Android手机和电脑在同一个Wifi下面； <br/>
 2）该Demo最低的SDK版本是15，所以需要保证Android版本在4.0.3以上 <br/>
