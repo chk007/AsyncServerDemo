@@ -1,13 +1,15 @@
-<h1>AsyncServerDemo</h1> <br/>
-Based on AndroidAsync and Dropzonejs project, I create an android app. <br/>
-This is an Android Studio Project. You can upload images from your pc to your android phone. <br/>
-And in order to make the app work well, you should make sure that: <br/>
-1. Your pc and your andorid phone are in the same wifi. <br/>
-2. The minSdkVersion is 15, so your android must be higher than 4.0.3<br/>
+# AsyncServerDemo
+In order to upload images from PC to Android devices. I develop this android demo based on [AndroidAsync](https://github.com/koush/AndroidAsync) and [dropzonejs](http://www.dropzonejs.com/).
 
-<h1>AsyncServerDemo</h1> <br/>
-基于开源项目<a>https://github.com/koush/AndroidAsync</a>和<a>http://www.dropzonejs.com/</a>项目，本人设计了一个Android App,这是一个Android Studio工程。<br/>
-这个Demo实现从电脑向Android手机上次图片的功能;确保App正常运行需要满足以下条件： <br/>
-1）Android手机和电脑在同一个Wifi下面； <br/>
-2）该Demo最低的SDK版本是15，所以需要保证Android版本在4.0.3以上 <br/>
-3）在电脑中输入App中给出的IP地址，即可进行图片上传<br/>
+If you want to have a try with this app, make sure that:
+
+1. Your pc and your andorid phone are in the same wifi.
+2. The sdk version of android devices is higher than 16.
+
+# AsyncServerDemo
+为实现从PC端向Android手机上传图片的功能，本人基于开源项目[AndroidAsync](https://github.com/koush/AndroidAsync)和[dropzonejs](http://www.dropzonejs.com/)项目开发了这个Android Demo。本Demo是一个Android Studio。
+
+Demo的运行条件：
+
+* Android手机和电脑在同一个Wifi下面；
+* 在电脑中输入App中给出的IP地址，即可进行图片上传；
